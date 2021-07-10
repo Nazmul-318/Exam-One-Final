@@ -1350,10 +1350,12 @@
     .catagory_content .catagory_top_left h2 {
         font-size: 14px;
         margin-bottom: 5px;
+        text-align: center;
     }
 
     .catagory_content .catagory_top_left h3 {
         font-size: 20px;
+        text-align: center;
     }
 
     .catagory_content .catagory_top_right a {
